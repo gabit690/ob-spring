@@ -49,6 +49,7 @@ public class VideogameController {
         return this._repository.findAll();
     }
 
+    @PutMapping
     public ResponseEntity<VideogameEntity> update(@RequestBody VideogameEntity videogame) {
 
         if(videogame.getId() == null){
