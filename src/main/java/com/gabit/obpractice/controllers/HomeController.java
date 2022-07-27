@@ -29,7 +29,7 @@ public class HomeController {
                             <li><a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer">Postman</a></li>
                         </ul>
                         <h2>Documentation</h2>
-                        <p>See more info and documentation <a href="http://localhost:8080/swagger-ui/" target="_blank" rel="noopener noreferrer">here</a>.</p>
+                        <p>See more info and documentation <a href="https://ob-spring-api-videogame.herokuapp.com/swagger-ui/" target="_blank" rel="noopener noreferrer">here</a>.</p>
                     </main>
                     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa" crossorigin="anonymous"></script>
                   </body>
